@@ -39,6 +39,7 @@
             android:layout_marginTop="10dp"
             android:background="#48ef60"
             android:text="Close"
+            android:onClick="onClickClose"
             android:textSize="20sp"/>
 
 </LinearLayout>
